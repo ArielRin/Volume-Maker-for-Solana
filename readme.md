@@ -1,4 +1,4 @@
-# Rainbow Boy Solana Token Volume Simulation Script
+# Solana Token Volume Simulation Script
 
 ## Table of Contents
 
